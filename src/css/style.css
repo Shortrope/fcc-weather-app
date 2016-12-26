@@ -1,0 +1,16 @@
+.weather__location:before {
+    content: 'Location: ';
+}
+.weather__temp:before {
+    content: 'Temperature: ';
+}
+.weather__sky:before {
+    content: 'sky: ';
+}
+.weather__wind:before {
+    content: 'wind: ';
+}
+.weather__icon img {
+    width: 40px;
+    height: 40px;
+}
