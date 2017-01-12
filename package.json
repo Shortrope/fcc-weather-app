@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-site",
+  "version": "1.0.0",
+  "description": "100 Sites: getbootstrap site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Kaack",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "browser-sync": "^2.18.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-html-angular-validate": "^0.2.0",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-print": "^2.0.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "yargs": "^6.6.0"
+  }
+}

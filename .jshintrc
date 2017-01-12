@@ -1,0 +1,9 @@
+{
+  "esversion": "6",
+  "globals": {
+    "window": true,
+    "document": true,
+    "console": true,
+    "$": true
+   }
+}
