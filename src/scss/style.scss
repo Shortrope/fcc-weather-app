@@ -5,12 +5,12 @@
     content: 'Temperature: ';
 }
 .weather__sky:before {
-    content: 'sky: ';
+    content: 'Sky: ';
 }
 .weather__wind:before {
-    content: 'wind: ';
+    content: 'Wind: ';
 }
-.weather__icon img {
-    width: 40px;
-    height: 40px;
+.weather__icon {
+    width: 100px;
+    height: 100px;
 }
